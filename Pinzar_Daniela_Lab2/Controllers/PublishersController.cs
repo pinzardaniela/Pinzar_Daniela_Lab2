@@ -5,9 +5,11 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using Pinzar_Daniela_Lab2.Data;
-using Pinzar_Daniela_Lab2.Models;
+using LibraryModel.Data;
+using LibraryModel.Models;
 using Pinzar_Daniela_Lab2.Models.LibraryViewModels;
+
+
 
 namespace Pinzar_Daniela_Lab2.Controllers
 {

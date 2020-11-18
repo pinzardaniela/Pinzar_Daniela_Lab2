@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29403.142
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pinzar_Daniela_Lab2", "Pinzar_Daniela_Lab2\Pinzar_Daniela_Lab2.csproj", "{00373DE4-67B9-432A-9984-DC754A2DFDFA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pinzar_Daniela_Lab2", "Pinzar_Daniela_Lab2\Pinzar_Daniela_Lab2.csproj", "{00373DE4-67B9-432A-9984-DC754A2DFDFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryModel", "..\LibraryModel\LibraryModel.csproj", "{EE4D384A-5A24-4C3F-9374-56EE1C5AC499}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryWebAPI", "LibraryWebAPI\LibraryWebAPI.csproj", "{E675E957-A170-4F18-BC76-1E20CF1171F7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{00373DE4-67B9-432A-9984-DC754A2DFDFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00373DE4-67B9-432A-9984-DC754A2DFDFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00373DE4-67B9-432A-9984-DC754A2DFDFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE4D384A-5A24-4C3F-9374-56EE1C5AC499}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE4D384A-5A24-4C3F-9374-56EE1C5AC499}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE4D384A-5A24-4C3F-9374-56EE1C5AC499}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE4D384A-5A24-4C3F-9374-56EE1C5AC499}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E675E957-A170-4F18-BC76-1E20CF1171F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E675E957-A170-4F18-BC76-1E20CF1171F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E675E957-A170-4F18-BC76-1E20CF1171F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E675E957-A170-4F18-BC76-1E20CF1171F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

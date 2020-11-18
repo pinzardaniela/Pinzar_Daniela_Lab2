@@ -5,12 +5,12 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using Pinzar_Daniela_Lab2.Models;
-using Pinzar_Daniela_Lab2.Data;
+using LibraryModel.Models;
+using LibraryModel.Data;
 using Microsoft.EntityFrameworkCore;
 using Pinzar_Daniela_Lab2.Models.LibraryViewModels;
 
-namespace Pinzar_Daniela_Lab2.Controllers
+namespace LibraryModel.Controllers
 {
     public class HomeController : Controller
     {

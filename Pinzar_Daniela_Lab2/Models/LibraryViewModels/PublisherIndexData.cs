@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using LibraryModel.Models;
 
 namespace Pinzar_Daniela_Lab2.Models.LibraryViewModels
 {
